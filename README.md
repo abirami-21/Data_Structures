@@ -13,4 +13,4 @@ Evaluating A Star algorithm and Depth First Search Algorith in Maze shortest Pat
 
 ## RESULT
 
-DFS works better than A Star algorithm for the given three mazes in terms of time complexityl.
+DFS works better than A Star algorithm for the given three mazes in terms of time complexity.
